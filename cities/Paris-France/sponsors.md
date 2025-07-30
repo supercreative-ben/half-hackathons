@@ -1,3 +1,3 @@
-Lovable
-Cerebras
-Anthropic
+- Lovable
+- Cerebras
+- Anthropic
